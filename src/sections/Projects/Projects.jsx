@@ -51,7 +51,7 @@ function Projects() {
         />
         <ProjectCard
           src={spotify}
-          link="https://github.com/aneeka026/Task-Manager-"
+          link="https://github.com/aneeka026/spotify-clone-ui"
           h3="Spotify Clone"
           p="Web Page"
         />
