@@ -6,6 +6,7 @@ import rps from '../../assets/rps.png';
 import ProjectCard from '../../common/ProjectCard';
 import Calculator from '../../assets/Calculator.png'
 import TaskManager from '../../assets/TaskManager.png'
+import spotify from '../../assets/spotify-1.png';
 
 function Projects() {
   return (
@@ -47,6 +48,12 @@ function Projects() {
           link="https://github.com/aneeka026/Task-Manager-"
           h3="Task Manager"
           p="Web App"
+        />
+        <ProjectCard
+          src={spotify}
+          link="https://github.com/aneeka026/Task-Manager-"
+          h3="Spotify Clone"
+          p="Web Page"
         />
       </div>
     </section>
